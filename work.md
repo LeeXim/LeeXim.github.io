@@ -3,6 +3,7 @@ layout: work
 title:
 slug: /work
 items:
+
   - title: Classification of Protein-Protein Interaction Using Graph Convolutional Networks 
     image:
       src: /assets/img/work/SARS-COV-2.png
@@ -45,7 +46,7 @@ items:
 
 ---
 
-My Research List 
+My Research List.
 
 <br />
 <br />
