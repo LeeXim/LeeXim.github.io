@@ -1,6 +1,6 @@
 ---
 layout: work
-title:
+title:        
 slug: /work
 items:
   - title: Node Clustering of Gene Co-expression Network from Single-cell RNA Sequencing Using Node2Vec
