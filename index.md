@@ -20,6 +20,9 @@ profile_picture:
   at School of Systems Biomedical Science, Soongsil University.
   
   Be able to confirm my <a href="https://drive.google.com/file/d/1Ug_2G5_srmvw6Mw-ZsO90djHS_xLr6iY/view">CV</a> if you want. 
+  
+  Be able to confirm more detailed information about me (e.g., presentations, photos, and developments) at another
+  <a href="https://le2dongso0.wixsite.com/website">homepage</a> if you want.
 
   <h3>Publication</h3> 
   

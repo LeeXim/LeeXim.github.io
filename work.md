@@ -3,26 +3,23 @@ layout: work
 title:
 slug: /work
 items:
-  - title: Node Clustering of Gene Co-expression Network from Single-cell RNA Sequencing Using Node2Vec
-    image:
-      src: /assets/img/work/malaria.jpg
-      alt: SARS
-    description: Gene clustering from scRNA-seq data of the malaria parasite for life cycle analysis. The original 
+- title: Node Clustering of Gene Co-expression Network from Single-cell RNA Sequencing Using Node2Vec
+  image:
+    src: /assets/img/work/malaria.jpg
+    alt: SARS
+  description: Gene clustering from scRNA-seq data of the malaria parasite for life cycle analysis. The original 
 dataset is from <a href="https://www.sciencedirect.com/science/article/pii/S0014482718306438?via%3Dihub">Ngara et al.</a>. 
 This project is cooperated with <a href="https://mhlee216.github.io/">MyeongHoon Lee</a>, TaeGyu Ha.
-  - title: Prediction of SARS-CoV-2 Main Protease Binding Free Energy Using Graph Convolutional Networks 
-    image:
-      src: /assets/img/work/PPI.jpg
-      alt: Protein-protein interaction
-    description: COVID-19 Mpro binding free energy (kcal/mol, calculated by AutoDock Vina) prediction for fast drug 
-discovery using graph convolutional networks. The original dataset is from 
-<a href="https://github.com/omarwagih/covid19-docking">Omar Wagih</a>. 
-This project is cooperated with <a href="https://mhlee216.github.io/">MyeongHoon Lee</a>.
-  - title: Expression quantitative trait loci for CCR4-NOT complex that regulate global gene expression 
-    image:
-      src: /assets/img/work/WDR18.jpg
-      alt: WDR18
-    description: A genome wide association study (GWAS) was conducted to identify expression 
+- title: Prediction of SARS-CoV-2 Main Protease Binding Free Energy Using Graph Convolutional Networks 
+  image:
+    src: /assets/img/work/PPI.jpg
+    alt: Protein-protein interaction
+  description: COVID-19 Mpro binding free energy (kcal/mol, calculated by AutoDock Vina) prediction for fast drug discovery using graph convolutional networks. The original dataset is from <a href="https://github.com/omarwagih/covid19-docking">Omar Wagih</a>. This project is cooperated with <a href="https://mhlee216.github.io/">MyeongHoon Lee</a>.
+- title: Expression quantitative trait loci for CCR4-NOT complex that regulate global gene expression 
+  image:
+    src: /assets/img/work/WDR18.jpg
+    alt: WDR18
+  description: A genome wide association study (GWAS) was conducted to identify expression 
 quantitative trait loci (eQTLs) for the CCR4-NOT complex that regulated gene expression at all steps. Data derived 
 from RNA expression in lymphoblastoid cells of 373 unrelated Europeans. We analyzed the genetic associations of SNPs 
 with expression of the genes encoding 10 proteins: CNOT1, CNOT2, CNOT3, CNOT4, CCR4a, CAF1, CAF40, CNOT10, CNOT11, 
