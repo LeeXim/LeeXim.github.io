@@ -6,15 +6,15 @@ items:
 - title: Node Clustering of Gene Co-expression Network from Single-cell RNA Sequencing Using Node2Vec
   image:
     src: /assets/img/work/malaria.jpg
-    alt: SARS
+    alt: malaria
   description: Gene clustering from scRNA-seq data of the malaria parasite for life cycle analysis. The original 
 dataset is from <a href="https://www.sciencedirect.com/science/article/pii/S0014482718306438?via%3Dihub">Ngara et al.</a>. 
 This project is cooperated with <a href="https://mhlee216.github.io/">MyeongHoon Lee</a>, TaeGyu Ha.
-- title: Prediction of SARS-CoV-2 Main Protease Binding Free Energy Using Graph Convolutional Networks 
-  image:
-    src: /assets/img/work/PPI.jpg
-    alt: Protein-protein interaction
-  description: COVID-19 Mpro binding free energy (kcal/mol, calculated by AutoDock Vina) prediction for fast drug discovery using graph convolutional networks. The original dataset is from <a href="https://github.com/omarwagih/covid19-docking">Omar Wagih</a>. This project is cooperated with <a href="https://mhlee216.github.io/">MyeongHoon Lee</a>.
+- title: Prediction of SARS-CoV-2 Main Protease Binding Free Energy Using Graph Convolutional Networks (<a href="https://github.com/mhlee216/COVID-19_Mpro_BFE_Prediction_GCN">GitHub</a>)
+    image:
+      src: /assets/img/work/SARS-COV-2.jpg
+      alt: SARS-COV-2
+    description: COVID-19 Mpro binding free energy (kcal/mol, calculated by AutoDock Vina) prediction for fast drug discovery using graph convolutional networks. The original dataset is from <a href="https://github.com/omarwagih/covid19-docking">Omar Wagih</a>. This project is cooperated with <a href="https://mhlee216.github.io/">MyeongHoon Lee</a>.
 - title: Expression quantitative trait loci for CCR4-NOT complex that regulate global gene expression 
   image:
     src: /assets/img/work/WDR18.jpg
