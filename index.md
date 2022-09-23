@@ -4,8 +4,6 @@ profile_picture:
   src: /assets/home/Profile.jpg
   alt: website picture
 ---
-
-<p>
   Welcome, everybody!
 
   I am a graduate researcher at <a href="https://brainmil.wordpress.com/">Brain and Machine Intelligence Lab (BMIL)</a>, 
@@ -27,8 +25,5 @@ profile_picture:
   I am a group member of 18th Qualcomm IT Tour,  
   
 
-</p>
 
-<p>
   You can find the source code and the instructions on <a href="https://github.com/eliottvincent/bay">GitHub</a>.
-</p>
