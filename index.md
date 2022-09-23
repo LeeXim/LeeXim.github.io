@@ -55,7 +55,7 @@ profile_picture:
   <a href="https://www.amii.ca/your-business/?utm_source=google-ads&utm_medium=cpc&utm_campaign=be-more-BMH-generic&utm_term=companies%20for%20machine%20learning&utm_campaign=SC+%7C+S+%7C+Be+MORE+BMH+Generic&utm_source=adwords&utm_medium=ppc&hsa_acc=6591753441&hsa_cam=18275130181&hsa_grp=142413166313&hsa_ad=620530101987&hsa_src=g&hsa_tgt=kwd-812766861496&hsa_kw=companies%20for%20machine%20learning&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gclid=Cj0KCQjwj7CZBhDHARIsAPPWv3cH29i--vbXjzHyBWRFDVGBnynvrdDT3j_Ilzpk-2fBnRhY1UiHnnMaAoYJEALw_wcB">
   AMII</a>, Edmonton, Canada.   
 
-  **2022.02.** Won the Best Paper Award at KICS 2022 Winter Conference, South Korea.
+  **2022.02.** Won the Best Paper Award at <span style="color:red">KICS 2022 Winter Conference</span>, South Korea.
 
   **2022.02.** Graduated researcher, Brain and Machine Intelligence Lab, School of Electronic Engineering, Soongsil University, Seoul, South Korea. 
 
