@@ -29,8 +29,8 @@ items:
 
   - title: Expression quantitative trait loci for CCR4-NOT complex that regulate global gene expression 
     image:
-      src: 
-      alt:
+      src: /assets/img/work/WDR18.png
+      alt: WDR18
     description: A genome wide association study (GWAS) was conducted to identify expression quantitative trait loci 
     (eQTLs) for the CCR4-NOT complex that regulated gene expression at all steps. Data derived from RNA expression in 
     lymphoblastoid cells of 373 unrelated Europeans. We analyzed the genetic associations of SNPs with expression of 
