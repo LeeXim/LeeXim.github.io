@@ -1,6 +1,6 @@
 ---
 layout: work
-title:        
+title: Project List.  
 slug: /work
 items:
   - title: Node Clustering of Gene Co-expression Network from Single-cell RNA Sequencing Using Node2Vec
@@ -30,6 +30,5 @@ items:
     their underlying mechanisms to unknown pathway that includes CCR4-NOT complex and 5FMC complex.
 ---
 
-My Research List.
 <br />
 <br />
