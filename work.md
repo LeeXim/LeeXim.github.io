@@ -47,6 +47,5 @@ items:
 ---
 
 My Research List.
-
 <br />
 <br />
