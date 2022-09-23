@@ -46,18 +46,24 @@ profile_picture:
   **Alberta Machine Intelligence Institute (AMII)**</a>, Edmonton, Canada (2022/05/22~29).
 
   <h3>News</h3>
-  **2022.07.** Joined in Qualcomm IT Tour 18th as a group member. See you in San Diego, California, USA in August 2022.
+  **2022.07.** Joined in Qualcomm IT Tour as a 18th group member. See you in San Diego, California, USA in August 2022.
 
-  **2022.05.** Accepted Dongsu Lee, Minhae Kwon, "ADAS-RL: Safety Learning Approach for Stable Autonomous Driving" to ICT express.
+  **2022.05.** Accepted Dongsu Lee, Minhae Kwon, "ADAS-RL: Safety Learning Approach for Stable Autonomous Driving" to 
+  <a href="https://www.journals.elsevier.com/ict-express">ICT express</a>.
 
-  **2022.04.** Invited by 2022 AI Week hosted by AMII, Edmonton, Canada.   
+  **2022.04.** Invited by 2022 AI Week hosted by 
+  <a href="https://www.amii.ca/your-business/?utm_source=google-ads&utm_medium=cpc&utm_campaign=be-more-BMH-generic&utm_term=companies%20for%20machine%20learning&utm_campaign=SC+%7C+S+%7C+Be+MORE+BMH+Generic&utm_source=adwords&utm_medium=ppc&hsa_acc=6591753441&hsa_cam=18275130181&hsa_grp=142413166313&hsa_ad=620530101987&hsa_src=g&hsa_tgt=kwd-812766861496&hsa_kw=companies%20for%20machine%20learning&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gclid=Cj0KCQjwj7CZBhDHARIsAPPWv3cH29i--vbXjzHyBWRFDVGBnynvrdDT3j_Ilzpk-2fBnRhY1UiHnnMaAoYJEALw_wcB">
+  AMII</a>, Edmonton, Canada.   
 
   **2022.02.** Won the Best Paper Award at KICS 2022 Winter Conference, South Korea.
 
   **2022.02.** Graduated researcher, Brain and Machine Intelligence Lab, School of Electronic Engineering, Soongsil University, Seoul, South Korea. 
 
   **2021.10.** Accepted Dongsu Lee, Minhae Kwon, "Stability Analysis in Mixed-Autonomous Traffic with Deep Reinforcement Learning,
-  to NIPS DeepRL Workshop.
+  to <a href="https://sites.google.com/view/deep-rl-workshop-neurips2021">NIPS DeepRL Workshop</a>.
+
+  **2021.10.** Published Dongsu Lee, Minhae Kwon, "Combating Stop-and-Go Wave Problem at a Ring Road Using Deep Reinforcement Learning Based Autonomous Vehicles"
+  to <a href="https://www.kics.or.kr/html/">JKICS</a>.
 
   **2020.12.** Undergraduate Intern, Brain and Machine Intelligence Lab, School of Electronic Engineering, Soongsil University, Seoul, South Korea.
 
