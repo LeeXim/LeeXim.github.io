@@ -7,7 +7,7 @@ profile_picture:
   Welcome, everybody!
 
   I am a graduate researcher at <a href="https://brainmil.wordpress.com/">**Brain and Machine Intelligence Lab (BMIL)**</a> 
-  (Prof.Minhae Kwon), **Soongsil Graduate School** in Seoul, South Korea. 
+  (Prof. Minhae Kwon), **Soongsil Graduate School** in Seoul, South Korea. 
   My present research topic is a Reinforcement Learning algorithm inspired by Cognitive Neuroscience concept.
   
   I am currently interested in all field of RL (e.g., Offline RL, Imitation Learning, Inverse RL, and so on), 
@@ -42,7 +42,7 @@ profile_picture:
   and you can check our travels in San Diego, California, USA (2022/08/15~21), 
   through <a href="https://www.instagram.com/qcittour_teamb/">**Instagram-Team b**</a>.
   
-  I had attend at 2022 AIWeek hosted by <a href="https://www.amii.ca/your-business/?utm_source=google-ads&utm_medium=cpc&utm_campaign=be-more-BMH-generic&utm_term=companies%20for%20machine%20learning&utm_campaign=SC+%7C+S+%7C+Be+MORE+BMH+Generic&utm_source=adwords&utm_medium=ppc&hsa_acc=6591753441&hsa_cam=18275130181&hsa_grp=142413166313&hsa_ad=620530101987&hsa_src=g&hsa_tgt=kwd-812766861496&hsa_kw=companies%20for%20machine%20learning&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gclid=Cj0KCQjwj7CZBhDHARIsAPPWv3eZPviV38B02ejUh4jZRMUhYtYKjnJ9JVnzcpnonuy1q0SdRUlCTB4aAtZfEALw_wcB">
+  I had attended at 2022 AIWeek hosted by <a href="https://www.amii.ca/your-business/?utm_source=google-ads&utm_medium=cpc&utm_campaign=be-more-BMH-generic&utm_term=companies%20for%20machine%20learning&utm_campaign=SC+%7C+S+%7C+Be+MORE+BMH+Generic&utm_source=adwords&utm_medium=ppc&hsa_acc=6591753441&hsa_cam=18275130181&hsa_grp=142413166313&hsa_ad=620530101987&hsa_src=g&hsa_tgt=kwd-812766861496&hsa_kw=companies%20for%20machine%20learning&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gclid=Cj0KCQjwj7CZBhDHARIsAPPWv3eZPviV38B02ejUh4jZRMUhYtYKjnJ9JVnzcpnonuy1q0SdRUlCTB4aAtZfEALw_wcB">
   **Alberta Machine Intelligence Institute (AMII)**</a>, Edmonton, Canada (2022/05/22~29).
 
   <h3>News</h3>
