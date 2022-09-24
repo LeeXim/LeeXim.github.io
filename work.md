@@ -1,14 +1,14 @@
 ---
-layout: work
-title: Project List.  
-slug: /work
+layout: work 
+title: Project List. 
+slug: /work 
 items: 
 
 - title: Node Clustering of Gene Co-expression Network from Single-cell RNA Sequencing Using Node2Vec 
-  - image:
-    - src: /assets/img/work/malaria.jpg 
-    - alt: malaria 
-  - description: Gene clustering from scRNA-seq data of the malaria parasite for life cycle analysis. The original dataset is from <a href="https://www.sciencedirect.com/science/article/pii/S0014482718306438?via%3Dihub">Ngara et al.</a>. 
+  image:
+    src: /assets/img/work/malaria.jpg 
+    alt: malaria 
+  description: Gene clustering from scRNA-seq data of the malaria parasite for life cycle analysis. The original dataset is from <a href="https://www.sciencedirect.com/science/article/pii/S0014482718306438?via%3Dihub">Ngara et al.</a>. 
 - title: Prediction of SARS-CoV-2 Main Protease Binding Free Energy Using Graph Convolutional Networks (<a href="https://github.com/mhlee216/COVID-19_Mpro_BFE_Prediction_GCN">GitHub</a>)
   image:
     src: /assets/img/work/SARS-COV-2.jpg
