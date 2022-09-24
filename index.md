@@ -49,7 +49,7 @@ profile_picture:
   **Alberta Machine Intelligence Institute (AMII)**</a>, Edmonton, Canada (2022/05/22~29).
 
   <h3>News</h3>
-  **2022.07.** Joined in Qualcomm IT Tour as a 18th group member. See you in San Diego, California, USA in August 2022.
+  **2022.07.** Joined in Qualcomm IT Tour as 18th group member. See you in San Diego, California, USA in August 2022.
 
   **2022.05.** Accepted Dongsu Lee, Minhae Kwon, "ADAS-RL: Safety Learning Approach for Stable Autonomous Driving" to 
   <span style="color:red">ICT express</span>.
@@ -57,16 +57,22 @@ profile_picture:
   **2022.04.** Invited by 2022 AI Week hosted by 
   <a href="https://www.amii.ca/your-business/?utm_source=google-ads&utm_medium=cpc&utm_campaign=be-more-BMH-generic&utm_term=companies%20for%20machine%20learning&utm_campaign=SC+%7C+S+%7C+Be+MORE+BMH+Generic&utm_source=adwords&utm_medium=ppc&hsa_acc=6591753441&hsa_cam=18275130181&hsa_grp=142413166313&hsa_ad=620530101987&hsa_src=g&hsa_tgt=kwd-812766861496&hsa_kw=companies%20for%20machine%20learning&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gclid=Cj0KCQjwj7CZBhDHARIsAPPWv3cH29i--vbXjzHyBWRFDVGBnynvrdDT3j_Ilzpk-2fBnRhY1UiHnnMaAoYJEALw_wcB">
   AMII</a>, Edmonton, Canada.   
+  
+  **2022.03.** Graduate Admission, School of Electronic Engineering, Soongsil Graduate School, Seoul, South Korea.
 
   **2022.02.** Won the Best Paper Award at <span style="color:red">KICS 2022 Winter Conference</span>, South Korea.
 
   **2022.02.** Graduated researcher, Brain and Machine Intelligence Lab, School of Electronic Engineering, Soongsil University, Seoul, South Korea. 
+  
+  **2021.11.** Won the Soongsil Patent Competition.
 
   **2021.10.** Accepted Dongsu Lee, Minhae Kwon, "Stability Analysis in Mixed-Autonomous Traffic with Deep Reinforcement Learning,
   to <span style="color:red">NIPS DeepRL Workshop</span>.
 
   **2021.10.** Published Dongsu Lee, Minhae Kwon, "Combating Stop-and-Go Wave Problem at a Ring Road Using Deep Reinforcement Learning Based Autonomous Vehicles"
   to <span style="color:red">JKICS</span>.
+
+  **2021.06.** Won the ICT Service Idea Competition hosted by KICS with Hyoseon Kye and Miru Kim.
 
   **2020.12.** Undergraduate Intern, Brain and Machine Intelligence Lab, School of Electronic Engineering, Soongsil University, Seoul, South Korea.
 
