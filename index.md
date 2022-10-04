@@ -11,7 +11,8 @@ profile_picture:
   My present research topic is a Reinforcement Learning algorithm inspired by Cognitive Neuroscience concept.
   
   I am currently interested in all field of RL (e.g., Offline RL, Imitation Learning, Inverse RL, and so on), 
-  Federated learning, Cognitive science (or psychology), and Neuroscience.
+  Federated learning, Cognitive science (or psychology), Neuroscience. In detail, Decision-making system of autonomous 
+  mobile devices (vehicles, drones, etc.).
   
   Previously, I majored in **Biotechnology** and **Bioinformatics** in **School of Systems Biomedical Science** 
   at Soongsil Univ in Seoul, South Korea. Additionally, I had double major in **Big Data Computing** System. 
@@ -21,11 +22,14 @@ profile_picture:
   
   Be able to confirm my <a href="https://drive.google.com/file/d/1Ug_2G5_srmvw6Mw-ZsO90djHS_xLr6iY/view">CV</a> if you want. 
   
-  Be able to confirm more detailed information about me (e.g., presentations, photos, and developments) at another
+  Be able to confirm more detailed information about me (e.g., presentations, photos, domestic publications, and developments) at another
   <a href="https://le2dongso0.wixsite.com/website">homepage</a> if you want.
 
   <h3>Publication</h3> 
-  
+  [AI-J2] Dongsu Lee, Minhae Kwon, "<a href="https://linkinghub.elsevier.com/retrieve/pii/S240595952200073X">
+  Stability Analysis in Mixed-autonomous Traffic with Deep Reinforcement Learning</a>," **IEEE Transactions 
+  on Vehicular Transportation**, accepted, October 2022. 
+ 
   [AI-J1] Dongsu Lee, Minhae Kwon, “<a href="https://linkinghub.elsevier.com/retrieve/pii/S240595952200073X">
   ADAS-RL: Safety Learning Approach for Stable Autonomous Driving</a>,” 
   **ICT Express**, vol.8, no.3, September 2022.
@@ -49,6 +53,9 @@ profile_picture:
   **Alberta Machine Intelligence Institute (AMII)**</a>, Edmonton, Canada (2022/05/22~29).
 
   <h3>News</h3>
+  **2022.10.** Accepted Dongsu Lee, Minhae Kwon, "Stability Analysis in Mixed-autonomous Traffic with Deep Reinforcement Learning" to
+  <span style="color:red">IEEE Transactions on Vehicular Transportation (TVT)</span>.
+
   **2022.07.** Joined in Qualcomm IT Tour as 18th group member. See you in San Diego, California, USA in August 2022.
 
   **2022.05.** Accepted Dongsu Lee, Minhae Kwon, "ADAS-RL: Safety Learning Approach for Stable Autonomous Driving" to 
