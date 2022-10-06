@@ -28,11 +28,11 @@ profile_picture:
   <h3>Publication</h3> 
   [AI-J2] Dongsu Lee, Minhae Kwon, "<a href="https://linkinghub.elsevier.com/retrieve/pii/S240595952200073X">
   Stability Analysis in Mixed-autonomous Traffic with Deep Reinforcement Learning</a>," **IEEE Transactions 
-  on Vehicular Transportation**, accepted, October 2022. 
+  on Vehicular Technology**, accepted, October 2022. (IF 6.239, Rank 38/276, Top 13.59%)
  
   [AI-J1] Dongsu Lee, Minhae Kwon, “<a href="https://linkinghub.elsevier.com/retrieve/pii/S240595952200073X">
   ADAS-RL: Safety Learning Approach for Stable Autonomous Driving</a>,” 
-  **ICT Express**, vol.8, no.3, September 2022.
+  **ICT Express**, vol.8, no.3, September 2022. (IF 4.317, Rank 22/91, Top 23.26%)
 
   [AI-W1] Dongsu Lee, Minhae Kwon, “Stability Analysis in Mixed-Autonomous Traffic with Deep Reinforcement Learning,” 
   **Conference on Neural Information Processing Systems (NeurIPS) Deep Reinforcement Learning (DeepRL) Workshop**, 
@@ -51,10 +51,13 @@ profile_picture:
   
   I had attended at 2022 AIWeek hosted by <a href="https://www.amii.ca/your-business/?utm_source=google-ads&utm_medium=cpc&utm_campaign=be-more-BMH-generic&utm_term=companies%20for%20machine%20learning&utm_campaign=SC+%7C+S+%7C+Be+MORE+BMH+Generic&utm_source=adwords&utm_medium=ppc&hsa_acc=6591753441&hsa_cam=18275130181&hsa_grp=142413166313&hsa_ad=620530101987&hsa_src=g&hsa_tgt=kwd-812766861496&hsa_kw=companies%20for%20machine%20learning&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gclid=Cj0KCQjwj7CZBhDHARIsAPPWv3eZPviV38B02ejUh4jZRMUhYtYKjnJ9JVnzcpnonuy1q0SdRUlCTB4aAtZfEALw_wcB">
   **Alberta Machine Intelligence Institute (AMII)**</a>, Edmonton, Canada (2022/05/22~29).
+  
+  I had completed at 2021 Huawei Seeds for the Future 
+  <a href="https://www.koit.co.kr/news/articleView.html?idxno=88156">[media]</a>, Virtual.
 
   <h3>News</h3>
   **2022.10.** Accepted Dongsu Lee, Minhae Kwon, "Stability Analysis in Mixed-autonomous Traffic with Deep Reinforcement Learning" to
-  <span style="color:red">IEEE Transactions on Vehicular Transportation (TVT)</span>.
+  <span style="color:red">IEEE Transactions on Vehicular Technology (TVT)</span>.
 
   **2022.07.** Joined in Qualcomm IT Tour as 18th group member. See you in San Diego, California, USA in August 2022.
 
@@ -78,6 +81,8 @@ profile_picture:
 
   **2021.10.** Published Dongsu Lee, Minhae Kwon, "Combating Stop-and-Go Wave Problem at a Ring Road Using Deep Reinforcement Learning Based Autonomous Vehicles"
   to <span style="color:red">JKICS</span>.
+  
+  **2021.09.** Joined in Huawei Seeds for the Future 2021 (ICT Talent Nurturing Program) as a member.
 
   **2021.06.** Won the ICT Service Idea Competition hosted by KICS with Hyoseon Kye and Miru Kim.
 
