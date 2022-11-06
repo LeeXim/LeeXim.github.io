@@ -46,7 +46,7 @@ profile_picture:
   <h3>Issued Patents</h3>
   숭실대학교 산학협력단, “심층강화학습기반 자율주행차량을 이용한 정체 현상 해결 방법, 이를 수행하기 위한 기록 매체 및 장치,” Korean Patent, filed on July 13, 
   2021 (Application no. 10-2021-0091665), issued on October 19, 2022. (Patent no. 10-2457914) 개발자: 권민혜, 이동수 
-  <a href="https://drive.google.com/drive/folders/1XgPZe2C_tU4MvwQ3MqEgYR95uur6RGeF">[PDF]</a>
+  <a href="https://drive.google.com/file/d/134v6IJLRIdXse0I_QNWHjByx1JSmy15p/view?usp=sharing">[PDF]</a>
 
   <h3>Travel and Grant</h3>
 
@@ -62,7 +62,7 @@ profile_picture:
 
   <h3>News</h3>
   **2022.10.** Issued Korean patent Dongsu Lee, Minhae Kwon, "Method for Combating Stop-and-Go Wave Problem Using Deep Reinforcement Learning based Autonomous Vehicles, 
-  Recording medium and device for performing this the method" <a href="https://drive.google.com/drive/folders/1XgPZe2C_tU4MvwQ3MqEgYR95uur6RGeF">[PDF]</a>
+  Recording medium and device for performing this the method" <a href="https://drive.google.com/file/d/134v6IJLRIdXse0I_QNWHjByx1JSmy15p/view?usp=sharing">[PDF]</a>
 
   **2022.10.** Accepted Dongsu Lee, Minhae Kwon, "Stability Analysis in Mixed-autonomous Traffic with Deep Reinforcement Learning" to
   <span style="color:red">IEEE Transactions on Vehicular Technology (TVT)</span>.
