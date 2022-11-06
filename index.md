@@ -28,7 +28,8 @@ profile_picture:
   <h3>Publication</h3> 
   [AI-J2] Dongsu Lee, Minhae Kwon, "<a href="https://linkinghub.elsevier.com/retrieve/pii/S240595952200073X">
   Stability Analysis in Mixed-autonomous Traffic with Deep Reinforcement Learning</a>," **IEEE Transactions 
-  on Vehicular Technology**, accepted, October 2022. (IF 6.239, Rank 38/276, Top 13.59%)
+  on Vehicular Technology**, accepted, October 2022. (IF 6.239, Rank 38/276, Top 13.59%) 
+  <a href="https://n.news.naver.com/article/003/0011509292?sid=102">[Media]</a>
  
   [AI-J1] Dongsu Lee, Minhae Kwon, “<a href="https://linkinghub.elsevier.com/retrieve/pii/S240595952200073X">
   ADAS-RL: Safety Learning Approach for Stable Autonomous Driving</a>,” 
@@ -42,6 +43,10 @@ profile_picture:
   <a href="https://slideslive.com/38971018/stability-analysis-in-mixedautonomous-traffic-with-deep-reinforcement-learning?ref=account-folder-92642-folders">
   [Video]</a>
 
+  <h3>Issued Patents</h3>
+  숭실대학교 산학협력단, “심층강화학습기반 자율주행차량을 이용한 정체 현상 해결 방법, 이를 수행하기 위한 기록 매체 및 장치,” Korean Patent, filed on July 13, 
+  2021 (Application no. 10-2021-0091665), issued on October 19, 2022. (Patent no. 10-2457914) 개발자: 권민혜, 이동수 
+  <a href="https://drive.google.com/drive/folders/1XgPZe2C_tU4MvwQ3MqEgYR95uur6RGeF">[PDF]</a>
 
   <h3>Travel and Grant</h3>
 
@@ -56,6 +61,9 @@ profile_picture:
   <a href="https://www.koit.co.kr/news/articleView.html?idxno=88156">[media]</a>, Virtual.
 
   <h3>News</h3>
+  **2022.10.** Issued Korean patent Dongsu Lee, Minhae Kwon, "Method for Combating Stop-and-Go Wave Problem Using Deep Reinforcement Learning based Autonomous Vehicles, 
+  Recording medium and device for performing this the method" <a href="https://drive.google.com/drive/folders/1XgPZe2C_tU4MvwQ3MqEgYR95uur6RGeF">[PDF]</a>
+
   **2022.10.** Accepted Dongsu Lee, Minhae Kwon, "Stability Analysis in Mixed-autonomous Traffic with Deep Reinforcement Learning" to
   <span style="color:red">IEEE Transactions on Vehicular Technology (TVT)</span>.
 
